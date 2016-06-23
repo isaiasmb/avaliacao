@@ -11,8 +11,11 @@ Necessitamos que seja criado um webservice em rest para devolver os dados de nos
 **Premissas:**
 `1.` Restrições:
 > Necessário ser um projeto feito com JavaEE.
+
 > Utilizar Maven ou Gradlew para compilação do projeto. 
+
 > Evitar o uso de api's de terceiros.
+
 > Criar testes unitários para exemplificar seu desenvolvimento. 
 
 `2.` Objeto exemplo:
