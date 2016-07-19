@@ -6,7 +6,7 @@ Desafio 1 : Programação Back-end.
 O objetivo desse desafio é demonstrar sua experiência e conhecimento em programação back-end. Assim saberemos como você pensa e como resolve estas necessidades.
 
 **O Problema:**
-Necessitamos que seja criado um webservice em rest para devolver os dados de nossos fornecedores, e ainda executar operações de Criação, deleção & atualização dos dados.
+Necessitamos que seja criado um webservice em rest para devolver os dados de nossos fornecedores, e ainda executar operações de CRUD.
 
 **Premissas:**
 `1.` Restrições:
