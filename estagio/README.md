@@ -12,6 +12,7 @@ Escreva um programa onde, dado um determinado horário, ele seja capaz de calcul
 entre os 2 ponteiros do relógio.
 
 **Premissas:**
+
 `1.` Considere:
 > 00:00h possui um ângulo de 0
 > 00:15h possui um ângulo de 45
