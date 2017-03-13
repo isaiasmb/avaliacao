@@ -1,6 +1,6 @@
 #Processo de Seleção Estágio
 
-Desafio 1 : Lógica e Programação.
+Desafio de Lógica e Programação.
 
 
 **Objetivo:**
@@ -20,7 +20,7 @@ O jogo da velha, dado uma matriz de duas dimensões de 3 posições cada, verifi
 
 `2.` Construtor do método:
 
-*public int retornaVencedor(int[][] jogo);*
+`public int retornaVencedor(int[][] jogo);`
 
 `3.` O desafio deve ser entregue escrito em Java ou linguagem natural.
 
@@ -30,6 +30,9 @@ O jogo da velha, dado uma matriz de duas dimensões de 3 posições cada, verifi
 
 `6.` O candidato deverá apresentar para a Neomind o resultado da solução do problema explanando em detalhes a lógica utilizada e o caminho que foi percorrido na solução do problema.
 
-`7.` Deverá ser enviado o projeto compactado ou o documento escrito em resposta ao e-mail ao qual este desafio foi solicitado.
+**Entrega:**
 
+Deverá ser enviado o projeto compactado ou o documento escrito em resposta ao e-mail ao qual este desafio foi solicitado.
+
+----------
 [![Neomind](https://www.neomind.com.br/fusion/portal_neomind/images/logo.png)](https://www.neomind.com.br/fusion/portal_neomind/)
