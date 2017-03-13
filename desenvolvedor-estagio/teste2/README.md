@@ -38,5 +38,6 @@ do problema.
 **Entrega:**
 
 Deverá ser enviado o projeto compactado ou o documento escrito em resposta ao e-mail ao qual este desafio foi solicitado.
+
 ----------
 [![Neomind](https://www.neomind.com.br/fusion/portal_neomind/images/logo.png)](https://www.neomind.com.br/fusion/portal_neomind/)
