@@ -1,7 +1,6 @@
 #Processo de Seleção Estágio
 
-Desafio 1 : Lógica e Programação.
-
+Desafio de Lógica e Programação.
 
 **Objetivo:**
 O objetivo desse desafio é demonstrar sua experiência e conhecimento em lógica e as bases
@@ -15,13 +14,14 @@ entre os 2 ponteiros do relógio.
 
 `1.` Considere:
 
-> 00:00h possui um ângulo de 0
-> 00:15h possui um ângulo de 45
-> 00:30h possui um ângulo de 180
+ - 00:00h possui um ângulo de 0
+ - 00:15h possui um ângulo de 45
+ - 00:30h possui um ângulo de 180
 
 
 `2.` Construtor do método:
-public long retornaAnguloRelogio(GregorianCalendar horario);
+
+`public long retornaAnguloRelogio(GregorianCalendar horario);`
 
 `3.` O desafio deve ser entregue escrito em Java ou linguagem natural.
 
@@ -38,5 +38,5 @@ do problema.
 **Entrega:**
 
 Deverá ser enviado o projeto compactado ou o documento escrito em resposta ao e-mail ao qual este desafio foi solicitado.
-
+----------
 [![Neomind](https://www.neomind.com.br/fusion/portal_neomind/images/logo.png)](https://www.neomind.com.br/fusion/portal_neomind/)
