@@ -1,7 +1,7 @@
-# Desafio de Lógica e Programação.
+# Desafio de Lógica e Programação
 
 **Objetivo:**
-O objetivo desse desafio é demonstrar sua habilidade e conhecimento em lógica e as bases técnicas. Assim saberemos como você pensa e como resolve problemas cotidianos.
+O objetivo desse desafio é demonstrar sua habilidade e conhecimento em lógica de programação. Assim saberemos como você pensa e como resolve problemas cotidianos.
 
 **O Problema:**
 O jogo da velha, dado uma matriz de duas dimensões de 3 posições cada, verifique se a combinação representa um jogo válido, completo, e defina quem é o vencedor.
