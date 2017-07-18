@@ -33,6 +33,3 @@ defenda a posição tomada.
 O candidato deverá apresentar para a Neomind o resultado da solução do problema
 explanando em detalhes a lógica utilizada e o caminho que foi percorrido na solução
 do problema, e deverá ser enviado o projeto compactado ou o documento escrito em resposta ao e-mail ao qual este desafio foi solicitado.
-
-----------
-[![Neomind](https://www.neomind.com.br/fusion/portal_neomind/images/logo.png)](https://www.neomind.com.br/fusion/portal_neomind/)
