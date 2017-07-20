@@ -1,4 +1,4 @@
-#Processo de Seleção Desenvolvedor Back-End
+# Processo de Seleção Desenvolvedor Back-End
 
 Desafio 1 : Programação Back-end.
 
@@ -9,6 +9,7 @@ O objetivo desse desafio é demonstrar sua experiência e conhecimento em progra
 Necessitamos que seja criado um webservice em rest para devolver os dados de nossos fornecedores, e ainda executar operações de Criação, deleção & atualização dos dados.
 
 **Premissas:**
+
 `1.` Restrições:
 > Necessário ser um projeto feito com JavaEE.
 
@@ -42,6 +43,7 @@ técnicas. Assim saberemos como você pensa e como resolve estas necessidades.
 Um cliente nos solicitou que seja feito uma interface para exibir comentários de seu sistema, a url contendo os dados é http://jsonplaceholder.typicode.com/comments os dados vem no formato Json.
 
 **Premissas:**
+
 `1.` Restrições:
 > A interface deverá ser feita com BootStrap.
 > A api para MVW a ser utilizada é o AngularJS. 
@@ -53,12 +55,12 @@ com a solução do desafio dizendo qual era sua dúvida, qual foi a decisão tom
 defenda a posição tomada.
 
 
-#Avaliações Neomind Solutions.
+# Avaliações Neomind Solutions.
 
 Conforme sua escolha de pretensão de cargo deverá executar os testes descritos nos perfis(pastas) criados no github.
 
 O desenvolvimento das  Avaliações deverá ser feito através de um fork de nosso projeto em sua conta.
 
-Deverá ser enviado a url do seu projeto ou atráves de um pull request em nosso projeto.
+Deverá ser enviado a url do seu projeto ou enviado o projeto por e-mail para quem solicitou o teste.
 
-[![Neomind](https://www.neomind.com.br/fusion/portal_neomind/images/logo.png)](https://www.neomind.com.br/fusion/portal_neomind/)
+[Neomind](https://www.neomind.com.br/fusion/portal_neomind/)
