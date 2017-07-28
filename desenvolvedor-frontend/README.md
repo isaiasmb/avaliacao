@@ -1,4 +1,4 @@
-#Processo de Seleção Desenvolvedor Front-End
+# Processo de Seleção Desenvolvedor Front-End
 
 Desafio 1 : Programação de Interfaces & Integração com webservices.
 
@@ -21,12 +21,6 @@ com a solução do desafio dizendo qual era sua dúvida, qual foi a decisão tom
 defenda a posição tomada.
 
 
-#Avaliações Neomind Solutions.
+# Entrega
 
-Conforme sua escolha de pretensão de cargo deverá executar os testes descritos nos perfis(pastas) criados no github.
-
-O desenvolvimento das  Avaliações deverá ser feito através de um fork de nosso projeto em sua conta.
-
-Deverá ser enviado a url do seu projeto ou atráves de um pull request em nosso projeto.
-
-[![Neomind](https://www.neomind.com.br/fusion/portal_neomind/images/logo.png)](https://www.neomind.com.br/fusion/portal_neomind/)
+O candidato deverá apresentar para a Neomind o resultado da solução do problema explanando em detalhes a lógica utilizada e o caminho que foi percorrido na solução do problema, e deverá ser enviado o projeto compactado ou o documento escrito em resposta ao e-mail ao qual este desafio foi solicitado.
