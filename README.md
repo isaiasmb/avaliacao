@@ -10,4 +10,4 @@ Conforme sua escolha de pretensão de cargo deverá executar os testes descritos
 
 - Estágio ou nível iniciante -> desenvolvedor-estagio
 
-[Neomind](https://www.neomind.com.br/fusion/portal_neomind/)
+[Neomind](http://www.neomind.com.br/)
