@@ -1,13 +1,13 @@
-#Processo de Seleção - Estágio de Testes
+# Processo de SeleÃ§Ã£o - EstÃ¡gio de Testes
 
-Desafio 1 : Automação de Testes.
+Desafio 1 : AutomaÃ§Ã£o de Testes.
 
 
 **Objetivo:**
-O objetivo desse desafio é demonstrar sua experiência e conhecimento em automação de testes. Caso não tenha conhecimento nessa área, nos retorne que o encaminharemos para segunda etapa dos testes - Casos de Testes Manuais.
+O objetivo desse desafio Ã© demonstrar sua experiÃªncia e conhecimento em automaÃ§Ã£o de testes. Caso nÃ£o tenha conhecimento nessa Ã¡rea, nos retorne que o encaminharemos para segunda etapa dos testes - Casos de Testes Manuais.
 
-**O Cenário:**
-Escreva um caso de teste usando a ferramenta Selenium IDE ou Automação via Java, com o cenário abaixo:
+**O CenÃ¡rio:**
+Escreva um caso de teste usando a ferramenta Selenium IDE ou AutomaÃ§Ã£o via Java, com o cenÃ¡rio abaixo:
 
 `1.` Acessar o site da Neomind: www.neomind.com.br
 
@@ -17,22 +17,22 @@ Escreva um caso de teste usando a ferramenta Selenium IDE ou Automação via Java,
 
 `4.` Verificar se existem os seguintes componentes em tela: o logo da empresa, o link "Esqueci minha senha" e o link "Contacte-nos"
 
-`5.` Logar com o usuário: teste.elearning / senha: neo@123
+`5.` Logar com o usuÃ¡rio: teste.elearning / senha: neo@123
 
 `6.` Clicar no link: Conhecendo a Central de Tarefas
 
-`7.` Clicar em Retomar lição 
+`7.` Clicar em Retomar liÃ§Ã£o 
 
-`8.` Clicar em Unidade Início
+`8.` Clicar em Unidade InÃ­cio
 
 `9.` Dar um play no treinamento.
 
-`10.` Caso tenhas alguma dúvida, tome a decisão que julgar ser a melhor e encaminhe junto
-com a solução do desafio dizendo qual era sua dúvida, qual foi a decisão tomada e
-defenda a posição tomada.
+`10.` Caso tenhas alguma dÃºvida, tome a decisÃ£o que julgar ser a melhor e encaminhe junto
+com a soluÃ§Ã£o do desafio dizendo qual era sua dÃºvida, qual foi a decisÃ£o tomada e
+defenda a posiÃ§Ã£o tomada.
 
-#Avaliações Neomind Solutions.
+#AvaliaÃ§Ãµes Neomind Solutions.
 
-O script deverá ser enviado para: marcia.pereira@neomind.com.br
+O script deverÃ¡ ser enviado para: marcia.pereira@neomind.com.br
 
-[![Neomind](https://www.neomind.com.br/fusion/portal_neomind/images/logo.png)](https://www.neomind.com.br/fusion/portal_neomind/)
+[![Neomind](https://www.neomind.com.br/fusion/portal_neomind/images/logo.png)](http://www.neomind.com.br/)
