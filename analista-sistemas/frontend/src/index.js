@@ -3,11 +3,10 @@ import ngRoute from 'angular-route';
 
 import './style.css';
 
-import configRoute from './configRoute';
+import routes from './routes';
 
 import PostController from './modules/post/PostController'
 
-
 export default angular.module('app', [ 'ngRoute' ])
-    .config(configRoute)
+    .config(routes)
     .controller('PostController', PostController);

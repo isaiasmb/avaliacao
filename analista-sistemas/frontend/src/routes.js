@@ -1,9 +1,8 @@
-
 'use strict';
-export default function ConfigRoute($routeProvider) {
+export default function routes($routeProvider) {
 
 	$routeProvider.when('/posts', {
-		templateUrl: require('./modules/post/posts.html'),
+		template: require('./modules/post/posts.html'),
 		controller: "PostController",
 		controllerAs: "PostCtrl"
 	});

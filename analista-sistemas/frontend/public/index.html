@@ -1,12 +1,14 @@
-<html>
+<!DOCTYPE html>
+<html ng-app="app">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neomind App</title>
+    <title>App</title>
     <link rel="stylesheet" href="app.css">
 </head>
 <body class="skin-blue fixed sidebar-mini">
-    <div id="app" class="wrapper"></div>
+    
+    <ng-view class="main-app"></ng-view>
     <script src="app.js"></script>
 </body>
 </html>
