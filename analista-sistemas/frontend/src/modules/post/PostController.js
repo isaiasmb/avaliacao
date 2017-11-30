@@ -1,9 +1,22 @@
-export default class PostController {
-    constructor() {
-        this.name = "Testando controller!";
+'use strict';
+
+angular.module('app').controller('PostController', PostController);
+
+function PostController(PostService) {
+
+    var vm = this;
+
+    initialize();
+
+    function initialize() {
+        vm.loadPosts();
     }
 
-    changeName() {
-        this.name = 'Alterando o nome';
+    function loadPosts() {
+        PostService.getAll().then(function(result) {
+            vm.posts = result.data;
+            console.log(vm.posts);
+        });
     }
+
 }
