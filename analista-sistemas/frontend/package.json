@@ -9,19 +9,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "angular": "^1.6.6",
     "angular-route": "^1.6.6",
-<<<<<<< HEAD
-=======
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-react": "^6.22.0",
->>>>>>> 147eff4d10dabef103d1989ed769b0f635e4119b
-    "bootstrap": "^3.3.7",
     "browser-sync": "^2.18.13",
-    "font-awesome": "^4.7.0",
     "gulp": "^3.9.1"
   }
 }

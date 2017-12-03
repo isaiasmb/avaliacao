@@ -1,5 +1,16 @@
-<div class="jumbotron">
-  <h1>Hello, {{PostCtrl.name}}</h1>
+<div class="index-content">
+  <div class="container">
+    <a href="#!/post/{{post.id}}">
+      <div ng-repeat="post in PostsCtrl.posts">
+        <div class="col-lg-4" style="margin-bottom: 30px">
+          <div class="card">
+            <img src="./src/img/super-mario.jpg">
+            <h4>{{post.title}}</h4>
+            <p>{{post.body | textResumeFilter:90}}</p>
+            <a href="#!/post/{{post.id}}" class="blue-button">Ver mais</a>
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
 </div>
-
-<button class="btn btn-primary" ng-click="PostCtrl.changeName()">Change</button>

@@ -1,0 +1,58 @@
+<html ng-app="app">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Neomind</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="node_modules/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link href="src/css/reset.css" rel="stylesheet">
+    <link href="src/css/post.css" rel="stylesheet">
+    <link href="src/css/posts.css" rel="stylesheet">
+    <link href="src/css/comments.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+
+            <div class="navbar-header">
+
+            </div>
+        </div>
+    </nav>
+
+    <ng-view></ng-view>
+
+    <footer class="footer copyright text-center">
+        <div class="container">
+            <small>Copyright © Teste front-end Neomind</small>
+        </div>
+    </footer>
+
+    <!-- AngularJS -->
+    <script src="node_modules/angular/angular.min.js"></script>
+    <script src="node_modules/angular-route/angular-route.min.js"></script>
+
+    <!-- App -->
+    <script src="src/app/app.js"></script>
+    <script src="src/app/configRoute.js"></script>
+
+    <!-- Filters -->
+    <script src="src/filters/textResumeFilter.js"></script>
+
+    <!-- Post -->
+    <script src="src/modules/post/PostService.js"></script>
+    <script src="src/modules/comment/CommentService.js"></script>
+    <script src="src/modules/post/PostsController.js"></script>
+    <script src="src/modules/post/PostController.js"></script>
+
+</body>
+
+</html>
