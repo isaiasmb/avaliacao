@@ -9,16 +9,16 @@
 
 **Endpoints:**
 
-1. Fornecedor
+**1. Fornecedor**
 
 POST - api/suppliers <br />
 PUT - api/suppliers <br />
 GET - api/suppliers <br />
 DELETE - api/suppliers/{id} <br />
 
-1. Comentário
+**1. Comentário**
 
 POST - api/comments <br />
 PUT - api/comments <br />
 GET - api/comments <br />
-DELETE - api/comments/{id} v
+DELETE - api/comments/{id}
