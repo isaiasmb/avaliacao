@@ -11,7 +11,7 @@
 
 1. Fornecedor
 
-POST - api/suppliers
+POST - api/suppliers <br />
 PUT - api/suppliers
 GET - api/suppliers
 DELETE - api/suppliers/{id}
