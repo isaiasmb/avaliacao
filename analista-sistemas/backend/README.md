@@ -12,13 +12,13 @@
 1. Fornecedor
 
 POST - api/suppliers <br />
-PUT - api/suppliers
-GET - api/suppliers
-DELETE - api/suppliers/{id}
+PUT - api/suppliers <br />
+GET - api/suppliers <br />
+DELETE - api/suppliers/{id} <br />
 
 1. Comentário
 
-POST - api/comments
-PUT - api/comments
-GET - api/comments
-DELETE - api/comments/{id}
+POST - api/comments <br />
+PUT - api/comments <br />
+GET - api/comments <br />
+DELETE - api/comments/{id} v
