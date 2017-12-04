@@ -10,14 +10,12 @@
 **Endpoints:**
 
 **1. Fornecedor**
-
 POST - api/suppliers <br />
 PUT - api/suppliers <br />
 GET - api/suppliers <br />
 DELETE - api/suppliers/{id} <br />
 
 **1. Comentário**
-
 POST - api/comments <br />
 PUT - api/comments <br />
 GET - api/comments <br />
