@@ -23,5 +23,11 @@ public class SupplierDao extends HibernateDAO<Supplier> {
 		Query query = getSession().createQuery("FROM Supplier");
 		return query.list();
 	}
+	
+	public boolean delete(Long id) {
+		Supplier supplier = get(id);
+		delete(supplier);
+		return true;
+	}
 
 }

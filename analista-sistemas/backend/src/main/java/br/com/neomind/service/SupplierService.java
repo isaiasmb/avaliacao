@@ -24,5 +24,10 @@ public class SupplierService {
 	public List<Supplier> getSuppliers() {
 		return supplierDao.getSuppliers();
 	}
+	
+	@Transactional(rollbackFor = Exception.class)
+	public boolean delete(Long id) {
+		return supplierDao.delete(id);
+	}
 
 }

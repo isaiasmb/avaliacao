@@ -23,4 +23,10 @@ public class CommentDao extends HibernateDAO<Comment> {
 		Query query = getSession().createQuery("FROM Comment");
 		return query.list();
 	}
+	
+	public boolean delete(Long id) {
+		Comment comment = get(id);
+		delete(comment);
+		return true;
+	}
 }
